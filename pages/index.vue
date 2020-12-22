@@ -2,7 +2,7 @@
   <div class="container">
     <div>
       <Logo />
-      <h1 class="title">This is an update to my demo app</h1>
+      <h1 class="title">Demo App...</h1>
       <div class="links">
         <a
           href="https://nuxtjs.org/"
